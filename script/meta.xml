@@ -1,0 +1,14 @@
+<meta>
+		<info author="Ich" type="script" name="Reallife" description="Reallife" />
+		
+		<script src="database\mysql_start.lua" type="server"/>
+
+		<script src="register_login\register_login.lua" type="server"/>
+		<script src="register_login\register_login-cl.lua" type="client"/>
+
+		<script src="admin\admincmd.lua" type="server"/>
+
+		<script src="utility\utility.lua" type="server"/>
+
+		<script src="economy\economy.lua" type="server"/>
+</meta>
