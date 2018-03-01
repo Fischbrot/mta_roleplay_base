@@ -11,4 +11,8 @@
 		<script src="utility\utility.lua" type="server"/>
 
 		<script src="economy\economy.lua" type="server"/>
+
+		<!-- Vehicles -->
+		<script src="vehicle\drivingschool.lua" type="server"/>
+		<script src="vehicle\drivingschool_cl.lua" type="client"/>
 </meta>
